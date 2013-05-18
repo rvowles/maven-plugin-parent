@@ -1,5 +1,4 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>com.bluetrainsoftware.parent</groupId>
@@ -8,7 +7,7 @@
   </parent>
 
   <artifactId>maven-plugin-parent</artifactId>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.1</version>
   <packaging>pom</packaging>
   <name>Blue Train Software Ltd - Maven Plugin Parent</name>
 
@@ -21,6 +20,7 @@
     <connection>scm:git:git@github.com:rvowles/maven-plugin-parent.git</connection>
     <developerConnection>scm:git:git@github.com:rvowles/maven-plugin-parent.git</developerConnection>
     <url>git@github.com:rvowles/maven-plugin-parent.git</url>
+    <tag>maven-plugin-parent-1.1</tag>
   </scm>
 
 
